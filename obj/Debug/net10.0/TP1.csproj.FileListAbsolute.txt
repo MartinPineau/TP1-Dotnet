@@ -1,0 +1,14 @@
+C:\Users\marti\Documents\efrei\Dotnet\TP1\bin\Debug\net10.0\TP1.exe
+C:\Users\marti\Documents\efrei\Dotnet\TP1\bin\Debug\net10.0\TP1.deps.json
+C:\Users\marti\Documents\efrei\Dotnet\TP1\bin\Debug\net10.0\TP1.runtimeconfig.json
+C:\Users\marti\Documents\efrei\Dotnet\TP1\bin\Debug\net10.0\TP1.dll
+C:\Users\marti\Documents\efrei\Dotnet\TP1\bin\Debug\net10.0\TP1.pdb
+C:\Users\marti\Documents\efrei\Dotnet\TP1\obj\Debug\net10.0\TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Documents\efrei\Dotnet\TP1\obj\Debug\net10.0\TP1.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\efrei\Dotnet\TP1\obj\Debug\net10.0\TP1.AssemblyInfo.cs
+C:\Users\marti\Documents\efrei\Dotnet\TP1\obj\Debug\net10.0\TP1.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\efrei\Dotnet\TP1\obj\Debug\net10.0\TP1.dll
+C:\Users\marti\Documents\efrei\Dotnet\TP1\obj\Debug\net10.0\refint\TP1.dll
+C:\Users\marti\Documents\efrei\Dotnet\TP1\obj\Debug\net10.0\TP1.pdb
+C:\Users\marti\Documents\efrei\Dotnet\TP1\obj\Debug\net10.0\TP1.genruntimeconfig.cache
+C:\Users\marti\Documents\efrei\Dotnet\TP1\obj\Debug\net10.0\ref\TP1.dll
