@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marti\\.nuget\\packages\\": {}
+    "C:\\Users\\fdeba\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Documents\\efrei\\Dotnet\\TP1\\TP1.csproj",
+      "projectUniqueName": "C:\\Users\\fdeba\\Documents\\Efrei\\dotnet\\TP1-Dotnet\\TP1.csproj",
       "projectName": "TP1",
-      "projectPath": "C:\\Users\\marti\\Documents\\efrei\\Dotnet\\TP1\\TP1.csproj",
-      "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Documents\\efrei\\Dotnet\\TP1\\obj\\",
+      "projectPath": "C:\\Users\\fdeba\\Documents\\Efrei\\dotnet\\TP1-Dotnet\\TP1.csproj",
+      "packagesPath": "C:\\Users\\fdeba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fdeba\\Documents\\Efrei\\dotnet\\TP1-Dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\fdeba\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

@@ -1,6 +1,6 @@
 ﻿namespace TP1;
 
-public record Key : ICollectable
+public sealed record Key : ICollectable
 {
-    
+    internal Key(){}
 }

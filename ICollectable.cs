@@ -1,6 +1,3 @@
 ﻿namespace TP1;
 
-public interface ICollectable
-{
-    
-}
+public interface ICollectable;
