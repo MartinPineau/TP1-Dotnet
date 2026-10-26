@@ -1,8 +1,9 @@
 namespace TP1;
 
-class Wall : Tile
+public sealed class Wall : Tile
 {
     public override bool IsTraversable => false;
 
-    public override bool Pass() => false;
+    public override ICollectable? Pass() =>
+        throw new InvalidOperationException("A wall cannot be passed through.");
 }

@@ -1,18 +1,12 @@
 namespace TP1;
 
-class Room : Tile
+public sealed class Room(ICollectable? collectable = null) : Tile
 {
-    internal Room(ICollectable? collectable = null) => Collectable = collectable;
-    public ICollectable? Collectable
-    {
-        get;
-        private set;
-    }
+    public ICollectable? Collectable { get; private set; } = collectable;
+
     public override bool IsTraversable => true;
 
-    public override bool Pass() => true;
-
-    public ICollectable? TakeCollectable()
+    public override ICollectable? Pass()
     {
         var collectable = Collectable;
         Collectable = null;
